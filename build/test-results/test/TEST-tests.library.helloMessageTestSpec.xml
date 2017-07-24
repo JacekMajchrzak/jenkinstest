@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.library.helloMessageTestSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-07-24T19:54:25" hostname="majchrj2-ZUH03M" time="0.114">
+  <properties/>
+  <testcase name="test shared library code" classname="tests.library.helloMessageTestSpec" time="0.114"/>
+  <system-out><![CDATA[>>>>>> pipeline call stack -------------------------------------------------
+   helloMessage.run()
+   helloMessage.call(groovy.lang.Closure)
+      helloMessage.node(groovy.lang.Closure)
+         helloMessage.echo(hello test message: This is a test message)
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
